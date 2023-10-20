@@ -25,10 +25,10 @@
 > user ekleyin
 ```console
 # sinanEngin yazan yerleri değişin.
-adduser sinanEngin
-usermod -aG sudo sinanEngin
-su sinanEngin
-cd /home/sinanEngin
+adduser DrunkLizard
+usermod -aG sudo DrunkLizard
+su DrunkLizard
+cd /home/DrunkLizard
 ```
 
 <h1 align="center"> Kurulum </h1>
